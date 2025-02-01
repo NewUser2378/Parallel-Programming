@@ -1,3 +1,36 @@
 [submodule "possible-executions-analysis-NewUser2378"]
 	path = possible-executions-analysis-NewUser2378
 	url = https://github.com/ITMO-MPP/possible-executions-analysis-NewUser2378
+[submodule "michael-scott-queue-NewUser2378"]
+	path = michael-scott-queue-NewUser2378
+	url = https://github.com/ITMO-MPP/michael-scott-queue-NewUser2378
+[submodule "treiber-stack-with-elimination-NewUser2378"]
+	path = treiber-stack-with-elimination-NewUser2378
+	url = https://github.com/ITMO-MPP/treiber-stack-with-elimination-NewUser2378
+[submodule "lamport-lock-fail-NewUser2378"]
+	path = lamport-lock-fail-NewUser2378
+	url = https://github.com/ITMO-MPP/lamport-lock-fail-NewUser2378
+[submodule "fine-grained-bank-NewUser2378"]
+	path = fine-grained-bank-NewUser2378
+	url = https://github.com/ITMO-MPP/fine-grained-bank-NewUser2378
+[submodule "monotonic-clock-NewUser2378"]
+	path = monotonic-clock-NewUser2378
+	url = https://github.com/ITMO-MPP/monotonic-clock-NewUser2378
+[submodule "faa-queue-NewUser2378"]
+	path = faa-queue-NewUser2378
+	url = https://github.com/ITMO-MPP/faa-queue-NewUser2378
+[submodule "flat-combining-queue-NewUser2378"]
+	path = flat-combining-queue-NewUser2378
+	url = https://github.com/ITMO-MPP/flat-combining-queue-NewUser2378
+[submodule "read-write-bank-NewUser2378"]
+	path = read-write-bank-NewUser2378
+	url = https://github.com/ITMO-MPP/read-write-bank-NewUser2378
+[submodule "mcs-lock-NewUser2378"]
+	path = mcs-lock-NewUser2378
+	url = https://github.com/ITMO-MPP/mcs-lock-NewUser2378
+[submodule "lock-free-bank-NewUser2378"]
+	path = lock-free-bank-NewUser2378
+	url = https://github.com/ITMO-MPP/lock-free-bank-NewUser2378
+[submodule "stm-bank-NewUser2378"]
+	path = stm-bank-NewUser2378
+	url = https://github.com/ITMO-MPP/stm-bank-NewUser2378
